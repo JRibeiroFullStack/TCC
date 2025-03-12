@@ -1,0 +1,26 @@
+{
+    "Sensor_Silo_Superior": [
+        "{\n    \"_nome_sensor\": \"Sensor_Silo_Superior\",\n    \"_sinal_sensor\": 1,\n    \"_data_da_deteccao\": \"13:00:28\",\n    \"_hora_da_deteccao\": \"12/03/2025\"\n}",
+        "{\n    \"_nome_sensor\": \"Sensor_Silo_Superior\",\n    \"_sinal_sensor\": 0,\n    \"_data_da_deteccao\": \"13:00:38\",\n    \"_hora_da_deteccao\": \"12/03/2025\"\n}",
+        "{\n    \"_nome_sensor\": \"Sensor_Silo_Superior\",\n    \"_sinal_sensor\": 1,\n    \"_data_da_deteccao\": \"13:00:48\",\n    \"_hora_da_deteccao\": \"12/03/2025\"\n}",
+        "{\n    \"_nome_sensor\": \"Sensor_Silo_Superior\",\n    \"_sinal_sensor\": 0,\n    \"_data_da_deteccao\": \"13:00:58\",\n    \"_hora_da_deteccao\": \"12/03/2025\"\n}"
+    ],
+    "Sensor_Silo_inferior": [
+        "{\n    \"_nome_sensor\": \"Sensor_Silo_inferior\",\n    \"_sinal_sensor\": 1,\n    \"_data_da_deteccao\": \"13:00:28\",\n    \"_hora_da_deteccao\": \"12/03/2025\"\n}",
+        "{\n    \"_nome_sensor\": \"Sensor_Silo_inferior\",\n    \"_sinal_sensor\": 0,\n    \"_data_da_deteccao\": \"13:00:38\",\n    \"_hora_da_deteccao\": \"12/03/2025\"\n}",
+        "{\n    \"_nome_sensor\": \"Sensor_Silo_inferior\",\n    \"_sinal_sensor\": 1,\n    \"_data_da_deteccao\": \"13:00:48\",\n    \"_hora_da_deteccao\": \"12/03/2025\"\n}",
+        "{\n    \"_nome_sensor\": \"Sensor_Silo_inferior\",\n    \"_sinal_sensor\": 0,\n    \"_data_da_deteccao\": \"13:00:58\",\n    \"_hora_da_deteccao\": \"12/03/2025\"\n}"
+    ],
+    "Sensor_Caixinha_Conectores": [
+        "{\n    \"_nome_sensor\": \"Sensor_Caixinha_Conectores\",\n    \"_sinal_sensor\": 1,\n    \"_data_da_deteccao\": \"13:00:28\",\n    \"_hora_da_deteccao\": \"12/03/2025\"\n}",
+        "{\n    \"_nome_sensor\": \"Sensor_Caixinha_Conectores\",\n    \"_sinal_sensor\": 0,\n    \"_data_da_deteccao\": \"13:00:38\",\n    \"_hora_da_deteccao\": \"12/03/2025\"\n}",
+        "{\n    \"_nome_sensor\": \"Sensor_Caixinha_Conectores\",\n    \"_sinal_sensor\": 1,\n    \"_data_da_deteccao\": \"13:00:48\",\n    \"_hora_da_deteccao\": \"12/03/2025\"\n}",
+        "{\n    \"_nome_sensor\": \"Sensor_Caixinha_Conectores\",\n    \"_sinal_sensor\": 0,\n    \"_data_da_deteccao\": \"13:00:58\",\n    \"_hora_da_deteccao\": \"12/03/2025\"\n}"
+    ],
+    "Sensor_Esteira": [
+        "{\n    \"_nome_sensor\": \"Sensor_Esteira\",\n    \"_sinal_sensor\": 1,\n    \"_data_da_deteccao\": \"13:00:28\",\n    \"_hora_da_deteccao\": \"12/03/2025\"\n}",
+        "{\n    \"_nome_sensor\": \"Sensor_Esteira\",\n    \"_sinal_sensor\": 0,\n    \"_data_da_deteccao\": \"13:00:38\",\n    \"_hora_da_deteccao\": \"12/03/2025\"\n}",
+        "{\n    \"_nome_sensor\": \"Sensor_Esteira\",\n    \"_sinal_sensor\": 1,\n    \"_data_da_deteccao\": \"13:00:48\",\n    \"_hora_da_deteccao\": \"12/03/2025\"\n}",
+        "{\n    \"_nome_sensor\": \"Sensor_Esteira\",\n    \"_sinal_sensor\": 0,\n    \"_data_da_deteccao\": \"13:00:58\",\n    \"_hora_da_deteccao\": \"12/03/2025\"\n}"
+    ]
+}
