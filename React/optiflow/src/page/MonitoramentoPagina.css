@@ -1,0 +1,41 @@
+.espacamento-grafico {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  height: 200px;
+  padding: 120px;
+}
+
+.Graficos {
+    margin-top: 50px; /* Espaço entre o Navbar e os gráficos */
+    width: 100%;
+    display: flex;
+    justify-content: flex-end; /* Alinha os gráficos à direita da tela */
+    gap: 20px; /* Espaçamento entre os gráficos */
+    flex-wrap: wrap; /* Permite que os gráficos se ajustem conforme a largura da tela */
+    padding-right: 40px; /* Adiciona um padding à direita para afastar os gráficos da borda */
+  }
+  
+  /* Cada gráfico individual */
+  .Graficos .grafico-item {
+    background-color: #2c2c2c; /* Cor de fundo para os gráficos */
+    padding: 20px;
+    border-radius: 8px; /* Bordas arredondadas */
+    width: 30%; /* Controla a largura dos gráficos */
+    min-width: 300px; /* Garante que os gráficos não fiquem menores que 300px */
+    height: 400px; /* Aumenta a altura dos gráficos */
+  }
+  
+  /* Ajuste para responsividade dos gráficos */
+  @media (max-width: 768px) {
+    .Graficos {
+      justify-content: center; /* Centraliza os gráficos em telas pequenas */
+      gap: 10px; /* Diminui o espaço entre os gráficos */
+    }
+  
+    .Graficos .grafico-item {
+      width: 90%; /* Ajusta a largura dos gráficos para 90% da tela */
+      height: 300px; /* Ajusta a altura para ser um pouco menor em telas pequenas */
+    }
+  }
+  

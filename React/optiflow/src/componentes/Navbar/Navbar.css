@@ -1,0 +1,77 @@
+.navbar {
+    background: linear-gradient( 135deg, rgba(255, 0, 150, 0.3), rgba(0, 255, 200, 0.2), black);
+    padding: 10px 40px;
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+    position: fixed;
+    top: 0px;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    font-family: 'Arial', sans-serif;
+    
+  }
+
+
+.imagem-opti img{
+  width: 50%;
+  align-items: center;
+}
+  
+.navbar-img {
+    width: 120px;
+    padding-right: 130px;
+    
+}
+  
+
+  .navbar-text {
+    color: white;
+    letter-spacing: 2px;
+    transition: color 0.3s ease, transform 0.3s ease;
+    
+    
+  }
+  
+  .navbar-text:hover {
+    color: rgba(255, 0, 150, 0.3);
+    transform: scale(1.1);
+  }
+  
+  
+  .navbar-menu {
+    display: flex;
+    flex: 1; /* Faz o menu ocupar o máximo de espaço disponível */
+  }
+  
+  
+  .navbar-link {
+    color: white; /* Cor padrão dos links */
+    font-size: 20px; /* Tamanho de fonte maior para os links */
+    text-decoration-line: none;
+    letter-spacing: 3px; 
+    transition: color 0.3s ease, transform 0.3s ease;
+    margin: 0 45px; /* 👈 espaçamento horizontal */
+    margin-right: 180px;
+  }
+  
+  .navbar-link:hover {
+    color: rgba(255, 0, 150, 0.9); /* Cor ao passar o mouse nos links */
+    transform: translateY(-5px); /* Leve elevação do link ao passar o mouse */
+  }
+  
+  
+  /* Ajustes para quando a tela for menor (Responsivo) */
+  @media (max-width: 768px) {
+    .navbar {
+      padding: 15px 20px;
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  
+      
+   
+  }
+  
